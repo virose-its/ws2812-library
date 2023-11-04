@@ -9,7 +9,7 @@
     "frameworks": "arduino",
     "platforms": "espressif32",
     "dependencies": [
-        { "owner": "arkhipenko", "name": "TaskScheduler", "version": "^3.6.0" }
+        { "owner": "FastLED", "name": "FastLED", "version": "^3.6.0"}
     ],
     "authors": [
         { "name": "Faris Rafi" }, 
