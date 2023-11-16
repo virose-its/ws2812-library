@@ -1,5 +1,5 @@
 {
-  "name": "ws2812-library",
+  "name": "WS2812-Library",
   "description": "A library to control WS2812 led strips using the RMT peripheral on the ESP32",
   "repository": {
     "type": "git",

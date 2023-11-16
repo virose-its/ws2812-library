@@ -5,10 +5,10 @@
 // Ganti dengan pin data LED.
 #define DATA_PIN 32
 
-CGRB leds[NUM_LEDS];
+CRGB leds[NUM_LEDS];
 // Definisikan LEDTask dengan parameter startLed dan endLed.
 LEDTask ledTask1(0, 1);
-LEDTask ledTask1(1, 2);
+LEDTask ledTask2(1, 2);
 
 void setup() {
     Serial.begin(115200);
