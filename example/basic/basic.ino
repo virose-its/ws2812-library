@@ -1,4 +1,4 @@
-#include "led.h"
+#include <WS2812BLib.h>
 
 // Ganti dengan jumlah LED yang digunakan.
 #define NUM_LEDS 2
